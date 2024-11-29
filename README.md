@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ishagurnani09@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/Nj4gm](https://shorturl.at/Nj4gm)
+- 📄 Know about my experiences [Resume](https://shorturl.at/Nj4gm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
