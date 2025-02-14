@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishi1324&label=Profile%20views&color=0e75b6&style=flat" alt="ishi1324" /> </p>
 
-- 🔭 I’m currently working on **Currency Detector ML Model**
+- 🌱 I’m currently learning **Software Development**
 
-- 🌱 I’m currently learning **Generative AI**
+- 👯 I’m looking to collaborate on **FRONT-END PROJECTS**
 
-- 👯 I’m looking to collaborate on **AIML Projects**
-
-- 💬 Ask me about **Python , DBMS , SQL**
+- 💬 Ask me about **ReactJS ,  Javascript , MERN STACK , Python , HTMl , CSS , JAVA , PHP , SQL , WORDPRESS**
 
 - 📫 How to reach me **ishagurnani09@gmail.com**
 
