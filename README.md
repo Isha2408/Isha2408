@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A Software & FrontEnd Developer Located In Our Lovely Earth<br>👯 I Am Currently Seeking Opportunities<br>🤝 I'm passionate about transforming concepts into workable solutions<br>🌱 Exploring Prompt Engineering, Serverless APIs, and UI/UX design<br>💬  I have expertise MERN stack, and my area of expertise is Software development.<br>⚡  Runer Up–RoboThon Workshop and Competition | Tech Lead, AI Club at @ VIT-Bhopal
+Frontend Developer 
 
 
 ## 🌐 Socials:
